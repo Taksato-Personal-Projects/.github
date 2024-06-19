@@ -1,5 +1,5 @@
 # EasyBalance
-<img src="assets/logo/EasyBalanceLogo.png" alt="EasyBalance Logo" width="77" height="70"> 
+<img src="assets/logo/EasyBalanceLogo.png" alt="EasyBalance Logo" width="107" height="100" style="vertical-align: middle;"> 
 
 | Title           | Repository | 
 |-----------------|------------|
