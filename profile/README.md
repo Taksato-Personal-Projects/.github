@@ -1,3 +1,3 @@
 # .github
 
-![.](assets/logo/EasyBalanceLogo.png)
+![](assets/logo/EasyBalanceLogo.png)
