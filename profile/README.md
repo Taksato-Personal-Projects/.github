@@ -1,3 +1,3 @@
-# .github
+# Projects
 
-![](assets/logo/EasyBalanceLogo.png)
+## EasyBalance <img src="assets/logo/EasyBalanceLogo.png" alt="EasyBalance Logo" width="30" height="30">
