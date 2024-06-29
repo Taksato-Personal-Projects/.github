@@ -1,5 +1,5 @@
 # EasyBalance
-![](assets/logo/EasyBalanceLogo.png)
+![](assets/EasyBalanceLogo.png)
 
 | Title           | Repository | 
 |-----------------|------------|
